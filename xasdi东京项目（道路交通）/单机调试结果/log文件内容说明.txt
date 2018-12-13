@@ -1,0 +1,18 @@
+在ubantu下打开log文件，每个文件内容为下面中的一行：
+
+
+
+
+??##w ################################
+
+??##wV###############################################&I have received a setattribute message
+
+??##wV###############################################&I have received a setattribute message
+
+
+??##wP###########T###############################?### I have received a mutual message
+
+??##wV###############################################&I have received a setattribute message
+
+
+??##wV###############################################&I have received a setattribute message

@@ -1,0 +1,10 @@
+com.ibm.xasdi_bridge
+com.ibm.xasdi_bridge.citizen
+com.ibm.xasdi_bridge.fd.engine
+com.ibm.xasdi_bridge.log
+com.ibm.xasdi_bridge.message
+com.ibm.xasdi_bridge.rt
+com.ibm.xasdi_bridge.rt.log
+com.ibm.xasdi_bridge.rt.state
+com.ibm.xasdi_bridge.simulator
+com.ibm.xasdi_bridge.util
